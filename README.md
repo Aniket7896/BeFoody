@@ -40,7 +40,7 @@ BeFoody is deployed and live, ready to cater to customers. The deployment proces
 
 Explore BeFoody and connect with me to discuss how we can collectively craft remarkable web experiences.
 
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/www.linkedin.com/in/aniket-dubey-2a6180242)
+- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/aniket-dubey-2a6180242)
 - Email: [anidubey7896@gmail.com](mailto:anidubey7896@gmail.com)
 
 Feel free to reach out to discuss collaborations or any inquiries about the project. Your next groundbreaking project deserves nothing less than exceptional, and I'm here to make that a reality.
