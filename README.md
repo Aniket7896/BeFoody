@@ -34,6 +34,7 @@ BeFoody is a full-stack food delivery application built using React, Node.js, Mo
 ## Deployment:
 
 BeFoody is deployed and live, ready to cater to customers. The deployment process is a culmination of our development journey, preparing the platform to serve users worldwide.
+[Deployed link of project]: https://650f289dfc0bfc55f1b8ad78--superb-cat-e9b03d.netlify.app/
 
 ## Connect with Me:
 
